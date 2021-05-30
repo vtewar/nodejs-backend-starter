@@ -1,0 +1,21 @@
+{
+    "code_list_header": [
+        {
+            "code_list_header_id": 1,
+            "code_key": "",
+            "code_key_description": "",
+            "code_key_short_description": "",
+            "created_by_user": "SQL-LOAD"
+        }
+    ],
+    "code_list_value": [
+        {
+            "code_list_value_id": 1,
+            "code_list_header_id": "",
+            "code_value": "",
+            "code_value_description": "",
+            "code_value_short_description": "",
+            "created_by_user": "SQL-LOAD"
+        }
+    ]
+}

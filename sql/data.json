@@ -1,0 +1,28 @@
+{
+    "enterprise_users": [
+        {
+            "enterprise_user_id": 1,
+            "email_address": "root@example.com",
+            "first_name": "Root",
+            "last_name": "",
+            "password": "test#ing1",
+            "created_by_user": "SQL-LOAD"
+        }
+    ],
+    "enterprise_roles": [
+        {
+            "enterprise_role_id": 1,
+            "role_name": "ROOT",
+            "role_type": "ACCESS",
+            "created_by_user": "SQL-LOAD"
+        }
+    ],
+    "enterprise_user_role_xref": [
+        {
+            "enterprise_user_role_xref_id": 1,
+            "enterprise_user_id": 1,
+            "enterprise_role_id": 1,
+            "created_by_user": "SQL-LOAD"
+        }
+    ]
+}
