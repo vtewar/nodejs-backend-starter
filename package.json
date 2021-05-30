@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-backend-starter",
+  "version": "0.1.0",
+  "description": "NodeJS starter project for backend APIs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtewar/nodejs-backend-starter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "starter",
+    "api"
+  ],
+  "author": "Varun Tewari <contact@vtewari.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vtewar/nodejs-backend-starter/issues"
+  },
+  "homepage": "https://github.com/vtewar/nodejs-backend-starter#readme"
+}
